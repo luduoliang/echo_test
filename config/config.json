@@ -1,0 +1,13 @@
+{
+  "appname" :"echo_test",
+  "httpport":"9999",
+  "session_cookie_name":"echo_test",
+  "session_path":"./static/sessions",
+  "aes_key":"qckcmdbbv4u2hwxq",
+  "aes_iv":"0987654321abcdef",
+  "redis_addr":"127.0.0.1:6379",
+  "redis_password":"",
+  "redis_db":0,
+  "database_driver":"mysql",
+  "database_connect_string":"root:root@/echo_test?charset=utf8mb4&parseTime=True&loc=Local"
+}
